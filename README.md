@@ -25,7 +25,7 @@ The system is built to run autonomously via an automatic daily cron job, functio
 
 2. Create a .env file in the root directory based on the configuration logic:
 
-
+```
 X_BEARER_TOKEN=your_token
 X_API_KEY=your_key
 X_API_SECRET=your_secret
